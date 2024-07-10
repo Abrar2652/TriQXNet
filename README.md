@@ -38,5 +38,8 @@ where,
 In the pursuit of transparency and interpretability, we conducted ShapTime and [Permutation Feature Importance](https://christophm.github.io/interpretable-ml-book/feature-importance.html) analysis for the Conv1DTimeDistributedNet model.
 
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12694950.svg)](https://doi.org/10.5281/zenodo.12694950)
+
+
 
 
