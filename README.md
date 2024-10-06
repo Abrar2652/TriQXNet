@@ -1,6 +1,8 @@
 # TriQXNet: Forecasting Dst Index from Solar Wind Data 🌌🪐
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12694950.svg)](https://doi.org/10.5281/zenodo.12694950)
 ---
 ![](https://scx2.b-cdn.net/gfx/news/hires/2016/whyweshouldw.jpg)
+
 # Background Information
 When solar winds from the sun interacts with the magnetic field of the Earth, a phenomenon known as a geomagnetic storm occurs. This phenomenon can be fatal to critical infrastructures such as power grids, satellites, GPS etc. Therefore, forecasting geomagnetic storms is an important task that can impact millions of people worldwide.
 
